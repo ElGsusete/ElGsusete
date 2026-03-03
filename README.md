@@ -4,7 +4,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Desarrollador%20Full%20Stack&fontSize=32&fontAlignY=35&animation=twinkling)
 
-_Construyo cosas para la web · Aprendiendo cada día_
+*Construyo cosas para la web · Aprendiendo cada día*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesussanzrocamora/)
 
@@ -42,11 +42,11 @@ Soy **desarrollador** con foco en **frontend** y **experiencias de usuario**. Me
 
 ## Proyectos destacados
 
-| Proyecto                                                 | Descripción                                                                       | Stack                             |
-| -------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------- | -------------- |
+| Proyecto | Descripción | Stack |
+|----------|-------------|--------|
 | **[GameLog](https://tu-usuario.github.io/gameLibrary/)** | Biblioteca personal de videojuegos: registra, puntúa y consulta. Login con Steam. | React, TypeScript, Vite, Tailwind |
-| <!--                                                     | **[Otro proyecto]**                                                               | Breve descripción.                | Tech 1, Tech 2 |
-| **[Más proyectos]**                                      | Añade los que quieras destacar.                                                   | …                                 |
+<!--| **[Otro proyecto]** | Breve descripción. | Tech 1, Tech 2 |
+| **[Más proyectos]** | Añade los que quieras destacar. | … |
 
 ---
 
@@ -68,7 +68,7 @@ Soy **desarrollador** con foco en **frontend** y **experiencias de usuario**. Me
 [![Email](https://img.shields.io/badge/Email-gsusete@live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsusete@live.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesussanzrocamora/)
 
-_¿Colaboramos en algo? ¡Escríbeme!_
+*¿Colaboramos en algo? ¡Escríbeme!*
 
 </div>
 
