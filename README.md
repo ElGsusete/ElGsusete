@@ -27,7 +27,7 @@ Trabajo en **consultoría**, centrado en el sector **banca**. He desarrollado un
 - 🔭 Trabajando en: **consultoría** (banca) y proyectos personales
 - 🌱 Experiencia reciente: **flujo de altas de usuarios** en React
 - 💬 Pregúntame sobre: **React**, **Angular**, **Laravel**, **integraciones bancarias**
-- 🎮 Dato curioso: tengo una biblioteca de juegos en [GameLog](https://Gsuse.github.io/gameLibrary/) (como Letterboxd pero para videojuegos)
+- 🎮 Dato curioso: tengo una biblioteca de juegos en [GameLog](https://elgsusete.github.io/gameLibrary/) (como Letterboxd pero para videojuegos)
 
 ---
 
@@ -61,6 +61,7 @@ Trabajo en **consultoría**, centrado en el sector **banca**. He desarrollado un
 
 | Proyecto                                            | Descripción                                                                       | Stack                             |
 | --------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------- |
+| **[Portfolio](https://elgsusete.github.io/astroPortfolio/)** | Sitio estático responsive: Hero con typing, proyectos, contacto (Email, LinkedIn, GitHub, WhatsApp). Desplegado en GitHub Pages. | Astro, Tailwind, TypeScript |
 | **[GameLog](https://elgsusete.github.io/gameLibrary/)** | Biblioteca personal de videojuegos: registra, puntúa y consulta. Login con Steam. | React, TypeScript, Vite, Tailwind |
 | **Flujo de altas de usuarios**                      | Flujo de alta de usuarios desarrollado en React (consultoría banca).              | React, CSS                        |
 
@@ -72,6 +73,8 @@ Trabajo en **consultoría**, centrado en el sector **banca**. He desarrollado un
 
 [![Email](https://img.shields.io/badge/Email-gsusete%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsusete@live.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesussanzrocamora/)
+[![GitHub](https://img.shields.io/badge/GitHub-ElGsusete-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElGsusete)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34634597502)
 
 _¿Colaboramos en algo? ¡Escríbeme!_
 
