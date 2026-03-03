@@ -6,9 +6,7 @@
 
 *Construyo cosas para la web · Aprendiendo cada día*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ver_sitio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tu-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Twitter/X](https://img.shields.io/badge/X-Seguir-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesussanzrocamora/)
 
 </div>
 
