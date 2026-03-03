@@ -61,7 +61,7 @@ Trabajo en **consultoría**, centrado en el sector **banca**. He desarrollado un
 
 | Proyecto                                            | Descripción                                                                       | Stack                             |
 | --------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------- |
-| **[GameLog](https://Gsuse.github.io/gameLibrary/](https://elgsusete.github.io/gameLibrary/)** | Biblioteca personal de videojuegos: registra, puntúa y consulta. Login con Steam. | React, TypeScript, Vite, Tailwind |
+| **[GameLog](https://elgsusete.github.io/gameLibrary/)** | Biblioteca personal de videojuegos: registra, puntúa y consulta. Login con Steam. | React, TypeScript, Vite, Tailwind |
 | **Flujo de altas de usuarios**                      | Flujo de alta de usuarios desarrollado en React (consultoría banca).              | React, CSS                        |
 
 ---
