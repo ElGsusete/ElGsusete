@@ -3,6 +3,7 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Desarrollador%20Full%20Stack&fontSize=32&fontAlignY=35&animation=twinkling)
+
 _Construyo cosas para la web · Aprendiendo cada día_
 </div>
 
