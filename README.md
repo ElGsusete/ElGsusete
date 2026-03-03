@@ -59,13 +59,13 @@ Soy **desarrollador** con foco en **frontend** y **experiencias de usuario**. Me
 
 </div>
 
----
+--->
 
 ## Cómo contactar
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-gsusete%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsusete@live.com)
+[![Email](https://img.shields.io/badge/Email-gsusete@live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsusete@live.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesussanzrocamora/)
 
 _¿Colaboramos en algo? ¡Escríbeme!_
