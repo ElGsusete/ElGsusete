@@ -5,7 +5,16 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Desarrollador%20Full%20Stack&fontSize=32&fontAlignY=35&animation=twinkling)
 
 _Construyo cosas para la web · Aprendiendo cada día_
+
 </div>
+
+---
+
+## Carta de presentación
+
+Soy **Jesús**, desarrollador con experiencia en **consultoría** y proyectos del sector **banca**. Me especializo en aplicaciones web (principalmente React, aunque tambien en Angular), y una cosa siempre un codigo sencillo de entender es un codigo sencillo de mantener.
+
+Me interesan los equipos donde se cuida tanto la entrega como la calidad técnica, y siempre abierto a **nuevos proyectos**.
 
 ---
 
@@ -48,10 +57,10 @@ Trabajo en **consultoría**, centrado en el sector **banca**. He desarrollado un
 
 ## Proyectos destacados
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|--------|
+| Proyecto                                            | Descripción                                                                       | Stack                             |
+| --------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------- |
 | **[GameLog](https://Gsuse.github.io/gameLibrary/)** | Biblioteca personal de videojuegos: registra, puntúa y consulta. Login con Steam. | React, TypeScript, Vite, Tailwind |
-| **Flujo de altas de usuarios** | Flujo de alta de usuarios desarrollado en React (consultoría banca). | React, CSS |
+| **Flujo de altas de usuarios**                      | Flujo de alta de usuarios desarrollado en React (consultoría banca).              | React, CSS                        |
 
 ---
 
