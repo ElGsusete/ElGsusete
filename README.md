@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre] 👋
+# ¡Hola, soy Jesús 👋
 
 <div align="center">
 
@@ -45,7 +45,7 @@ Soy **desarrollador** con foco en **frontend** y **experiencias de usuario**. Me
 | Proyecto | Descripción | Stack |
 |----------|-------------|--------|
 | **[GameLog](https://tu-usuario.github.io/gameLibrary/)** | Biblioteca personal de videojuegos: registra, puntúa y consulta. Login con Steam. | React, TypeScript, Vite, Tailwind |
-| **[Otro proyecto]** | Breve descripción. | Tech 1, Tech 2 |
+<!--| **[Otro proyecto]** | Breve descripción. | Tech 1, Tech 2 |
 | **[Más proyectos]** | Añade los que quieras destacar. | … |
 
 ---
@@ -59,7 +59,7 @@ Soy **desarrollador** con foco en **frontend** y **experiencias de usuario**. Me
 
 </div>
 
----
+--->
 
 ## Cómo contactar
 
