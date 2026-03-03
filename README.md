@@ -31,10 +31,17 @@ Trabajo en **consultoría**, centrado en el sector **banca**. He desarrollado un
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
@@ -46,17 +53,6 @@ Trabajo en **consultoría**, centrado en el sector **banca**. He desarrollado un
 |----------|-------------|--------|
 | **[GameLog](https://Gsuse.github.io/gameLibrary/)** | Biblioteca personal de videojuegos: registra, puntúa y consulta. Login con Steam. | React, TypeScript, Vite, Tailwind |
 | **Flujo de altas de usuarios** | Flujo de alta de usuarios desarrollado en React (consultoría banca). | React, CSS/Tailwind |
-
----
-
-## Estadísticas (opcional)
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
