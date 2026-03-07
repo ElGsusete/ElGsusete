@@ -50,6 +50,8 @@ Trabajo en **consultoría**, centrado en el sector **banca**. He desarrollado un
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -59,11 +61,13 @@ Trabajo en **consultoría**, centrado en el sector **banca**. He desarrollado un
 
 ## Proyectos destacados
 
-| Proyecto                                            | Descripción                                                                       | Stack                             |
-| --------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------- |
-| **[Portfolio](https://elgsusete.github.io/astroPortfolio/)** | Sitio estático responsive: Hero con typing, proyectos, contacto (Email, LinkedIn, GitHub, WhatsApp). Desplegado en GitHub Pages. | Astro, Tailwind, TypeScript |
-| **[GameLog](https://elgsusete.github.io/gameLibrary/)** | Biblioteca personal de videojuegos: registra, puntúa y consulta. Login con Steam. | React, TypeScript, Vite, Tailwind |
-| **Flujo de altas de usuarios**                      | Flujo de alta de usuarios desarrollado en React (consultoría banca).              | React, CSS                        |
+| Proyecto                                                     | Descripción                                                                                                                                 | Stack                             |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| **[Portfolio](https://elgsusete.github.io/astroPortfolio/)** | Sitio estático responsive: Hero con typing, proyectos, contacto (Email, LinkedIn, GitHub, WhatsApp). Desplegado en GitHub Pages.           | Astro, Tailwind, TypeScript       |
+| **[GameLog](https://elgsusete.github.io/gameLibrary/)**      | Biblioteca personal de videojuegos: registra, puntúa y consulta. Login con Steam.                                                           | React, TypeScript, Vite, Tailwind |
+| **[F1 Wordle](https://elgsusete.github.io/F1-Wordle/)**      | Juego tipo Wordle con pilotos de F1: adivina el piloto por categorías (equipo, nacionalidad, año de debut). Modos Campeones, Victorias y Difícil. EN/ES. | Vue 3, TypeScript, Vite, vue-i18n  |
+| **[F1APIDatabase](https://github.com/ElGsusete/F1APIDatabase)** | API REST en Go + MongoDB con pilotos de la historia de la F1. Datos desde f1api.dev; GET /drivers con filtros y paginación.                 | Go, MongoDB, Docker, REST         |
+| **Flujo de altas de usuarios**                               | Flujo de alta de usuarios desarrollado en React (consultoría banca).                                                                        | React, CSS                        |
 
 ---
 
